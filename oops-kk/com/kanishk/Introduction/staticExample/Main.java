@@ -4,11 +4,9 @@ import com.kanishk.src.packages.a.Greeting;
 
 public class Main { 
     // static int count =3234;
-        public static void main(String args[]){package com.kanishk.Introduction.staticExample;
+        public static void main(String args[]){
         
-        public class InnerClasses {
-            
-        }
+   
         
         // Human kanishk = new Human(90, 23, "Kanishk");
         // Human bobby = new Human(65, 26, "Bobby");

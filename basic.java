@@ -3,6 +3,9 @@ class Developer extends Person{
     Developer(int age, String name){
         super(age,name);
     }
+    public void walk(){
+        System.out.println(name + " is walking");  // Run-time polymorphism
+    }
 }
 
 

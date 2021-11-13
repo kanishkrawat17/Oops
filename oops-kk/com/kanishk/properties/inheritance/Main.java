@@ -16,5 +16,7 @@ public class Main {
 
         BoxWeight box4 = new BoxWeight(20);
         // System.out.println("Height = "+ box4.h + ", Width = "+ box4.w+", Length = "+ box4.l +", Weight = "+ box4.weight);
+
+        System.out.print(box1.test);
     }
 }

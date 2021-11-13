@@ -4,7 +4,7 @@ public class Box {
     private double l;
     double h;
     double w;
-
+    protected int test = 30;
     Box(){ 
         this.h = -1;
         this.l = -1;
